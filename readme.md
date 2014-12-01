@@ -4,12 +4,13 @@
 
 SantaGo - Free Christmas Sales and Affiliate HTML5 Landing Page Template
 -------------------
-
-Thank you for choosing SantaGo
-
 SantaGo is another free Bootstrap HTML Christmas sales and affiliate page template built and distributed by EvenFly Team as a small Cristmas gift under Creative Commons 3.0 license.
 
 As long the codes already well commented, I don't think there's any additional help guide necessary. Even so, feel free to contact us through support@evenfly.com if you have any question/suggestion.
+
+Live Demo: http://creatrix.us/demo/santago/
+
+View the post on Dribbble: https://dribbble.com/shots/1828193
 
 If you like this template, you may like to see our other templates available here http://evenfly.com
 
