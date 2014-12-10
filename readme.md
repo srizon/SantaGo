@@ -8,7 +8,7 @@ SantaGo is another free Bootstrap HTML Christmas sales and affiliate page templa
 
 As long the codes already well commented, I don't think there's any additional help guide necessary. Even so, feel free to contact us through support@evenfly.com if you have any question/suggestion.
 
-Live Demo: http://creatrix.us/demo/santago/
+Live Demo: https://www.evenfly.com/themes/santago/
 
 View the post on Dribbble: https://dribbble.com/shots/1828193
 
